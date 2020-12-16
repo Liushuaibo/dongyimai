@@ -1,0 +1,10 @@
+//首页控制器
+app.controller('loginController',function($scope,loginService){
+    $scope.showName=function(){
+        loginService.loginName().success(
+            function(response){
+                $scope.loginName=response.loginName;
+            }
+        );
+    }
+});

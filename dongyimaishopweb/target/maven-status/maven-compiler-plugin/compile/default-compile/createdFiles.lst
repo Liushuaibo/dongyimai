@@ -1,0 +1,7 @@
+com\dongyimai\shop\service\UserDetailsServiceImpl.class
+com\dongyimai\shop\controller\LoginController.class
+com\dongyimai\shop\controller\GoodsController.class
+com\dongyimai\shop\controller\SellerController.class
+com\dongyimai\shop\controller\UploadController.class
+com\dongyimai\shop\controller\ItemCatController.class
+com\dongyimai\shop\controller\TypeTemplateController.class

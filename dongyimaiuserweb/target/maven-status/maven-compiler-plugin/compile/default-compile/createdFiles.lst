@@ -1,0 +1,3 @@
+com\dongyimai\user\controller\LoginController.class
+com\dongyimai\user\controller\UserController.class
+com\dongyimai\user\service\UserDetailServiceImpl.class

@@ -1,0 +1,9 @@
+com\dongyimai\sellergoods\service\impl\ItemServiceImpl.class
+com\dongyimai\sellergoods\service\impl\SpecificationOptionServiceImpl.class
+com\dongyimai\sellergoods\service\impl\TypeTemplateServiceImpl.class
+com\dongyimai\sellergoods\service\impl\BrandServiceImpl.class
+com\dongyimai\sellergoods\service\impl\GoodsServiceImpl.class
+com\dongyimai\sellergoods\service\impl\SellerServiceImpl.class
+com\dongyimai\sellergoods\service\impl\SpecificationServiceImpl.class
+com\dongyimai\sellergoods\service\impl\GoodsDescServiceImpl.class
+com\dongyimai\sellergoods\service\impl\ItemCatServiceImpl.class
